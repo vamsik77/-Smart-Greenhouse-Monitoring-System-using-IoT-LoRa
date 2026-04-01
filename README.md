@@ -371,7 +371,7 @@ npm run dev
 
 # 👨‍💻 Author
 
-**Rohan Immidichetty**
+**Varanasi Vamsi Krishna**
 BTech IoT — KL University
 
 ---
